@@ -45,3 +45,5 @@ You can customize various parameters in the PoseDetector class of the PoseModule
 * detectionCon: Detection confidence threshold (default: 0.5).
 * trackCon: Tracking confidence threshold (default: 0.5).
 Feel free to modify these parameters to suit your needs.
+
+![Result](result.png)
